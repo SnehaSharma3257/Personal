@@ -39,7 +39,7 @@ To signify a header, use `#`. The more `#` you use, the smaller the header gets.
 ###### Header 6
 
 1. Make a header of similar size as Header 3 with whatever text you want:
-###Cornell
+### Cornell
 ## Emphasis
 There are several different ways to emphasize text: *italics*, **bold**, ***combined***, and ~~strikethrough~~.
 
