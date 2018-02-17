@@ -39,9 +39,7 @@ To signify a header, use `#`. The more `#` you use, the smaller the header gets.
 ###### Header 6
 
 1. Make a header of similar size as Header 3 with whatever text you want:
-
 ###Cornell
-
 ## Emphasis
 There are several different ways to emphasize text: *italics*, **bold**, ***combined***, and ~~strikethrough~~.
 
@@ -96,7 +94,7 @@ Image with Height and Width Adjusted:
 
 ![Happy Cat](https://www.petmd.com/sites/default/files/petmd-cat-happy-13.jpg)
 
-![HappyCat](/Desktop/petmd-cat-happy-13.jpg")
+![HappyCat](/Images/petmd-cat-happy-13.jpg)
 
 <img src="https://www.petmd.com/sites/default/files/petmd-cat-happy-13.jpg" height=200 width=100>
 
@@ -111,7 +109,8 @@ To insert a link, all you have to do is enclose your linked text in `[]` followe
 
 1. Below, write a sentence describing your major, and insert a link to your major's department website.
 
-[http://aguaclara.cee.cornell.edu/]()
+I am a computational biology major. Here's a [link](https://biology.cornell.edu/) to my major's department website.
+
 
 ## Tables
 Tables in Markdown are slightly harder, but there's an automatic function that allows to you make one easily. When working in a `.md` file, all you have to do is type `table` and hit enter. It will initialize a 2 by 2 table, but you can easily increase the width by going to the last column and hitting `Tab` or it's height by clicking in any cell and hitting `Enter`. Notice in the example how the text below the header is justified left, center, and right. This is due to the line below the header. A line with a colon on the far left of the dashes only indicates left justified, colons on both sides of the dashes indicates centered, and a colon on the far right of the dashes indicates right justified.
